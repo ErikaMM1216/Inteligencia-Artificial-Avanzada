@@ -4,6 +4,7 @@ Portafolio Implementación
 
 Portafolio de Análisis
   - Análisis del contexto y la normatividad
+  - Desempeño del modelo Valhalla23
 
 Reporte
   - Titanic
