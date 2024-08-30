@@ -14,5 +14,8 @@ Momento de Retroalimentación - Reto Análisis del contexto y la normatividad: E
 
 Momento de Retroalimentación - Uso de framework o biblioteca de aprendizaje máquina para la implementación de una solución: Los archivos a revisar se encuentran en el Portafolio de Implementación (código - Wine.ipynb, base de Datos - wine.data, pdf - Wine)
 
+Momento de Retroalimentación - Módulo 2 Análisis y Reporte sobre el desempeño del modelo: Los archivos a revisar se encuentran dentro del Portafolio de Análisis, dentro de la carpeta ML, dentro de la carpeta Desempeño del modelo (Código - Desempeño_del_modelo_Valhalla.ipynb, Datos - Valhalla23.csv, Documento - Desempeño_del_modelo_Valhalla.pdf)
+
+
 Cambios
  - Se agregó el README al inicio
