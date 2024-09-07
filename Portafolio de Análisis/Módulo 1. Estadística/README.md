@@ -1,1 +1,1 @@
-Actividades correspondientes al modulo de estadística
+Actividades correspondientes al módulo de estadística
